@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**2100032004/2100032004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... Spring Boot
+- 🌱 I’m currently learning ... Spring Boot
+- 💬 Ask me about ... Java, HTML , Spring Boot
 -->
+
+
+Passionate about creating dynamic and intuitive user interfaces, I specialize in developing mobile applications using React Native and have expertise in Node.js for backend development.
+
+## Skills
+
+- Java
+- Spring Boot
+- HTML
+
+## About Me
+
+Full Stack Developer proficient in Java and Spring Boot, with a strong focus on building scalable web applications.
+
+## Contact Me
+
+- Email: 2100032004cseh@gmail.com
