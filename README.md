@@ -3,7 +3,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Spring Boot
 - 🌱 I’m currently learning ... Spring Boot
 - 💬 Ask me about ... Java, HTML , Spring Boot
 -->
